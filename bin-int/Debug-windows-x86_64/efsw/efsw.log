@@ -1,0 +1,21 @@
+﻿  Debug.cpp
+  DirWatcherGeneric.cpp
+  DirectorySnapshot.cpp
+  DirectorySnapshotDiff.cpp
+  FileInfo.cpp
+  FileSystem.cpp
+  FileWatcher.cpp
+  FileWatcherCWrapper.cpp
+  FileWatcherGeneric.cpp
+  FileWatcherImpl.cpp
+  FileWatcherWin32.cpp
+  Log.cpp
+  String.cpp
+  System.cpp
+  Watcher.cpp
+  WatcherGeneric.cpp
+  WatcherWin32.cpp
+  FileSystemImpl.cpp
+  SystemImpl.cpp
+  Generating Code...
+  efsw.vcxproj -> C:\dev\Perplex\PerplexCore\vendor\efsw\bin\Debug-windows-x86_64\efsw\efsw-static-debug.lib
